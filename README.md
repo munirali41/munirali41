@@ -14,8 +14,8 @@ Hi, I'm Munir Ali (☕💻💡)
 <p>
 <hr color="31A2EA">
 
-- ⚡ i am working as a desktop app developer  <br><br>
-- 😄 interested in artificial intelligence (AI), machine learning, penetration testing, and cloud engineering.<br><br>
+- ⚡ I am working as a desktop app developer  <br><br>
+- 😄 Interested in artificial intelligence (AI), machine learning, penetration testing, and cloud engineering.<br><br>
 - 🎓 I have strong coding experience in C++, Java, C#.Net, HTML, CSS, JavaScript, and Python.<br><br>
 - ✈ I want to use AI to increase the security of the digital world<br><br>
 - ❤️ Support Me and Follow Me In Social Media<br><br>
