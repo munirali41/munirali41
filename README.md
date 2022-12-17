@@ -11,7 +11,7 @@ Hi, I'm Munir Ali (☕💻💡)
  <img align="left" src="https://github.com/munirali41/munirali41/blob/main/images/photo_2022-06-29_09-04-54.jpg" width="320">
 
 
-<p>
+<!-- <p>
 <hr color="31A2EA">
 
 - ⚡ I am working as a desktop app developer  <br><br>
@@ -21,12 +21,12 @@ Hi, I'm Munir Ali (☕💻💡)
 - ❤️ Support Me and Follow Me In Social Media<br><br>
 - 😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!<br><br>
 <hr >
-	<p/>
+	<p/> -->
 	 
-<br><br>
+<!-- <br><br> -->
 
 
-<h2 align='left'>
+<!-- <h2 align='left'>
 ### 💻 Software and Tools
 
 <p>
@@ -50,6 +50,6 @@ Hi, I'm Munir Ali (☕💻💡)
 
 
 <p>
-<br><br>
+<br><br> -->
 
 
